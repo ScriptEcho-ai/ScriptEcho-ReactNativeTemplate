@@ -1,0 +1,9 @@
+{
+  "host": "https://ai.test.haumo.cn:8443", // 访问地址
+  "framework": "react-native", // 框架(uniapp、flutter、react-native)，不填默认为uniapp
+  "routeFile": "src/App.tsx", // 路由文件
+  "codeDir": "src", // 代码目录
+  "projectId": "b9d26cfefd44c0d36f9f197eefb9cef0", // 项目ID，必填
+  "port": "3700", // 端口，不填默认为5173
+  "routerMode": "history" // 路由模式
+}
